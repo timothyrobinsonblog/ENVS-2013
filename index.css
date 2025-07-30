@@ -1,3 +1,33 @@
 html {
     background-color: lightgray;
+    /* background-color: lightpink;
+    background-color: lightblue;
+    background-color: lightslategray; */
+    font-size: 24px;
+}
+
+.container {
+    padding: 3vh 0 2vh 5vw;
+    margin-top: 5vh;
+    /* border-top: 1px solid black;
+    border-bottom: 1px solid black; */
+}
+
+.title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    font-weight: normal;
+    width: 70vw;
+}
+
+.text-styling {
+    background-color: black;
+    color: lightgrey;
+    padding: 0 5px 0 5px;
 }
