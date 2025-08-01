@@ -2,7 +2,8 @@ html {
     background-color: lightgray;
     /* background-color: lightpink;
     background-color: lightblue;
-    background-color: lightslategray; */
+    background-color: lightslategray; 
+    background-color: #0D1117; */
     font-size: 24px;
 }
 
@@ -15,19 +16,23 @@ html {
 
 .title {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.5rem;
-    font-weight: bold;
+    font-size: 1.4rem;
+    /* font-weight: bold; */
 }
 
 p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 1rem;
-    font-weight: normal;
     width: 70vw;
+    border-bottom: 0.5px solid black;
+    padding-bottom: 3vh;
 }
 
 .text-styling {
     background-color: black;
+    /* background-color: maroon; */
+    /* background-color: #0D1117;
+    background-color: darkred; */
     color: lightgrey;
     padding: 0 5px 0 5px;
 }
