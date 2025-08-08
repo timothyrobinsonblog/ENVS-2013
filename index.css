@@ -47,3 +47,12 @@ p {
     color: lightgrey;
     padding: 0 5px 0 5px;
 }
+
+.text-styling-2 {
+    background-color: maroon;
+    /* background-color: black; */
+    /* background-color: #0D1117;
+    background-color: darkred; */
+    color: lightgrey;
+    padding: 0 5px 0 5px;
+}
